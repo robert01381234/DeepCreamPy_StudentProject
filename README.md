@@ -84,3 +84,9 @@ See [ACKNOWLEDGEMENTS.md](docs/ACKNOWLEDGEMENTS.md) for full license text of the
 
 ## Donations
 If you like the work I do, you can donate to me via Paypal. The funds will mainly go towards purchasing better GPUs to accelerate training. [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
+
+------------------------------------------------------------------------------------
+Remake by Robert Chen & Davis Lee
+Fulfill the save functions
+repair some UI bugs
+C
