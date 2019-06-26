@@ -86,7 +86,24 @@ See [ACKNOWLEDGEMENTS.md](docs/ACKNOWLEDGEMENTS.md) for full license text of the
 If you like the work I do, you can donate to me via Paypal. The funds will mainly go towards purchasing better GPUs to accelerate training. [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
 
 ------------------------------------------------------------------------------------
-Remake by Robert Chen & Davis Lee
-Fulfill the save functions
-repair some UI bugs
-C
+
+Remake by Robert Chen & Davis Lee.
+
+1.Fulfill the save functions.
+
+2.repair some UI bugs.
+
+3.Can use when image quite small.
+
+使用方式
+
+Fork,Clone後
+
+執行程式decensor.py可對decensor_input內所有圖片進行去馬賽克。
+
+輸出檔於decensor_output輸出。
+
+執行程式ui.py可對特定圖片進行去馬賽克，可自行對圖片編輯，decensor圖片輸出於同資料夾名稱+decensor。
+
+
+
