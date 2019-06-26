@@ -103,7 +103,7 @@ Fork,Clone後
 
 輸出檔於decensor_output輸出。
 
-執行程式ui.py可對特定圖片進行去馬賽克，可自行對圖片編輯，decensor圖片輸出於同資料夾名稱+decensor。
+執行程式ui.py可對特定圖片進行去馬賽克，可自行對圖片編輯，decensor圖片輸出於同資料夾名稱+_decensor。
 
 
 
